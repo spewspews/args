@@ -1,5 +1,5 @@
-#ifndef FLAGS_H_
-#define FLAGS_H_
+#ifndef ARGS_H_
+#define ARGS_H_
 
 #include <algorithm>
 #include <array>
@@ -167,4 +167,4 @@ struct args {
 
 } // namespace args
 
-#endif // FLAGS_H_
+#endif // ARGS_H_
